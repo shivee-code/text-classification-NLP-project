@@ -21,7 +21,6 @@ pip install -r requirements.txt  # Optional, if using external libraries
 python Text_Classification.py
 ```
 
-Or open the notebook in Jupyter/Colab for an interactive version.
 
 ## 🛠 Libraries Used
 
