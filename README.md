@@ -1,5 +1,5 @@
 # text-classification-NLP-project
-Preparing the Data for Text Classification
+# Preparing the Data for Text Classification
 ## 📁 Files Included
 
 - `Text_Classification.ipynb`: The original Jupyter Notebook with step-by-step implementation.
